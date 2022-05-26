@@ -1,4 +1,4 @@
-# soc-buzzword
+# buzzword-backend
 checkpoint 1 soc
 I am working in the backend team of the project.
 I have installed nodejs and vs code.
